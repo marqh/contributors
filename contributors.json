@@ -1,8 +1,9 @@
 {
 "contributors": [
-{ "profile_name":"ajdawson", "organisation":"University of Oxford"}
+{ "profile_name":"ajdawson", "organisation":""}
+{ "profile_name":"dmcdougall", "organisation":""}
 ],
 "alumni": [
-//{ "profile_name":"test", "organisation":""}
+{ "profile_name":"test", "organisation":""}
 ]
 }
