@@ -3,11 +3,13 @@
 { "profile_name":"ajdawson", "organisation":"University of Oxford"},
 { "profile_name":"dmcdougall", "organisation":""},
 { "profile_name":"cgohlke", "organisation":""},
-{ "profile_name":"dannymet97", "organisation":"West Exe Technology College"},
 { "profile_name":"sgtp", "organisation":"intelliLeaf ltd"},
-{ "profile_name":"andreas-h", "organisation":""}
+{ "profile_name":"andreas-h", "organisation":""},
+{ "profile_name":"shoyer", "organisation":"The Climate Corporation"}
 ],
 "alumni": [
+{ "profile_name":"dannymet97", "organisation":"West Exe Technology College"},
 { "profile_name":"b-anderson", "organisation":""}
+{ "profile_name":"felicityguest", "organisation":""}
 ]
 }
