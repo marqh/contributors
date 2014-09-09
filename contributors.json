@@ -5,12 +5,13 @@
 { "profile_name":"cgohlke", "organisation":""},
 { "profile_name":"sgtp", "organisation":"intelliLeaf ltd"},
 { "profile_name":"andreas-h", "organisation":""},
-{ "profile_name":"shoyer", "organisation":"The Climate Corporation"}
-{ "profile_name":"QuLogic", "organisation":""}
+{ "profile_name":"shoyer", "organisation":"The Climate Corporation"},
+{ "profile_name":"QuLogic", "organisation":""},
+{ "profile_name":"cbcunc", "organisation":""}
 ],
 "alumni": [
 { "profile_name":"dannymet97", "organisation":"West Exe Technology College"},
-{ "profile_name":"b-anderson", "organisation":""}
+{ "profile_name":"b-anderson", "organisation":""},
 { "profile_name":"felicityguest", "organisation":""}
 ]
 }
