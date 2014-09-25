@@ -8,7 +8,8 @@
 { "profile_name":"shoyer", "organisation":"The Climate Corporation"},
 { "profile_name":"QuLogic", "organisation":""},
 { "profile_name":"cbcunc", "organisation":""},
-{ "profile_name":"ChrisBarker-NOAA", "organisation":"US National Oceanic and Atmospheric Administration"}
+{ "profile_name":"ChrisBarker-NOAA", "organisation":"US National Oceanic and Atmospheric Administration"},
+{ "profile_name":"ocefpaf", "organisation":"University of Sao Paulo"}
 ],
 "alumni": [
 { "profile_name":"dannymet97", "organisation":"West Exe Technology College"},
